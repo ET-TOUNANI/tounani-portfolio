@@ -17,6 +17,7 @@ import Footer from './includes/Footer';
 function App() {
   return (
     <div>
+      <h1>hello world</h1>
         <Header className="header" />
         <div className="container sections-wrapper py-5">
             <div className="row">
